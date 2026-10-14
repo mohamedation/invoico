@@ -1,0 +1,8 @@
+file,source,doc_type,vendor,invoice_no,issue_date,currency,net_amount,vat_amount,vat_rate,gross_amount,cash_tendered,change_amount,category
+invoice_cloudtools.png,samples,invoice,CloudTools GmbH,INV-2026-1042,2026-02-15,EUR,100.00,19.00,19.0,119.00,,,Software & Subscriptions
+invoice_us_hosting.png,samples,invoice,PixelHost Inc.,PH-88921,2026-01-08,USD,49.00,0.00,0.0,49.00,,,Software & Subscriptions
+invoice_bad_math.png,samples,invoice,Broken Math Ltd,ERR-001,2026-04-01,GBP,200.00,40.00,20.0,250.00,,,Professional Services
+receipt_cafe.png,samples,receipt,CAFE NORD,,2026-03-12,EUR,14.40,1.01,7.0,15.41,,,Meals & Entertainment
+image.jpg,local-samples,receipt,BOOK TALK,TD01167104,2018-12-25,MYR,,,,9.00,10.00,1.00,Other
+image (1).jpg,local-samples,invoice,McDonald,003281900229170,2018-01-18,MYR,,1.51,6.0,26.60,100.00,73.40,Meals & Entertainment
+image (3).jpg,local-samples,invoice,UNIHAKKA,OR18030302170430,2018-03-03,MYR,,,,8.20,8.20,0.00,Meals & Entertainment
